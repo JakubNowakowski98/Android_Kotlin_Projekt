@@ -1,1 +1,1 @@
-# Android_Kotlin_Projekt
+Projekt uczelniany w języku Kotlin. Gra MasterAnd, adaptacja gry MasterMind na potrzeby zajęć laboratoryjnych.
